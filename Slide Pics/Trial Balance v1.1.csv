@@ -1,0 +1,13 @@
+Account Code,Account Name,Account Type,Debit ($),Credit ($)
+1010,Cash,Current Asset,15000,
+1020,Accounts Receivable,Current Asset,5500,
+1030,Office Supplies,Current Asset,1500,
+1400,Equipment,Fixed Asset,20000,
+2010,Accounts Payable,Current Liability,,3000
+2100,Notes Payable,Current Liability,,10000
+3010,Common Stock,Equity,,25000
+3100,Retained Earnings,Equity,,8000
+4010,Service Revenue,Revenue,,12000
+5010,Rent Expense,Expense,2500,
+5020,Salaries Expense,Expense,13500,
+Totals,,,"58000","58000"
